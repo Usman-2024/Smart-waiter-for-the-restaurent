@@ -6,6 +6,6 @@ Project Aim: To develop a Smart Waiter system that enhances the restaurant dinin
 
 ## Objectives:
 
-1. Develop a Smart Waiter prototype\
-2. Evaluate the impact on service efficiency and customer satisfaction\
-3. Assess feasibility in a real-world setting\
+1. Develop a Smart Waiter prototype
+2. Evaluate the impact on service efficiency and customer satisfaction
+3. Assess feasibility in a real-world setting
